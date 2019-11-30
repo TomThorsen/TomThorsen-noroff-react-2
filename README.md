@@ -1,1 +1,3 @@
-TomThorsen-noroff-react-2
+# Code for Noroff React Part 2
+
+## Lesson 2
