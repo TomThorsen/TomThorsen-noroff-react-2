@@ -37,9 +37,9 @@ export default function Layout(props) {
 								<Nav.Link as="span">Home</Nav.Link>
 							</a>
 						</Link>
-						<Link href="/about">
+						<Link href="/form">
 							<a>
-								<Nav.Link as="span">About</Nav.Link>
+								<Nav.Link as="span">Form</Nav.Link>
 							</a>
 						</Link>
 					</Nav>
